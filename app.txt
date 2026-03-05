@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "ads_data": "{}",
+        "ads_data": "{\"sdk_key\":\"dfhj\",\"banner_ad_id\":\"dfgj\",\"inter_ad_id\":\"dfhjk\",\"native_ad_id\":\"dfhj\"}",
         "download_url": "https:\/\/example.com\/download.apk",
         "web_url": "https:\/\/example.com",
         "app_version": "55",
